@@ -6,5 +6,5 @@ save_non_project_files = False
 
 [main]
 version = 0.2.0
-recent_files = ['test_requests.py', 'README.md', 'test\\test.py']
+recent_files = ['test_requests.py', 'README.md', 'test\\test.py', 'test\\all.py', 'test\\content.py', 'test\\Crawler.py']
 
